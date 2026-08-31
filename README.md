@@ -9,4 +9,4 @@ A simple analysis to discover your favourite fruit(s).
 
 ## Context
 
-The fruits that are considered in this analysis are limited to the ones that can be purchased in Europe.
+The fruits that are considered in this analysis are limited to the ones that can be purchased in Belgium.
